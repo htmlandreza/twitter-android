@@ -1,5 +1,6 @@
 package com.andrezamoreira.twitter;
 
+import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -84,6 +85,8 @@ public class LoginActivity extends AppCompatActivity {
 
     public void cadastro (View view){
         // ir para tela de cadastro
+        Intent i = new Intent(LoginActivity.this, CadastroActivity.class);
+        startActivity(i);
 
     }
 }
