@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "147104697598",
+    "firebase_url": "https://twitter-android-3e028.firebaseio.com",
+    "project_id": "twitter-android-3e028",
+    "storage_bucket": "twitter-android-3e028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147104697598:android:b47ca0ff6455dc0a",
+        "android_client_info": {
+          "package_name": "com.andrezamoreira.twitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147104697598-tkl9val7smqhlisel5kvpobhi8qk9nue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andrezamoreira.twitter",
+            "certificate_hash": "88d57918663ba9dbc5b4e02b0db2a12e91015509"
+          }
+        },
+        {
+          "client_id": "147104697598-eehap0r3p6u6nglcnbkqusb5vom4lq8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0uf33QPs3AAQS99yWV3SPiuKZjxc0Fv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147104697598-eehap0r3p6u6nglcnbkqusb5vom4lq8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
