@@ -50,6 +50,8 @@ public class LoginActivity extends AppCompatActivity {
     private void updateUI(FirebaseUser user){
         if (user != null){
             // passa pra tela principal
+            Intent i = new Intent(LoginActivity.this, MainActivity.class);
+            startActivity(i);
         }
     }
 
